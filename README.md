@@ -6,7 +6,7 @@ This is a template for a project repository that can be cloned/copied by the ana
 This is where analysist and other contributors can write up an abstract-like text describing the project. Consider regular abstracts are around 300 words, keep this section to that length. Short introduction, a brief overview of the methods, and anticipated results. In total 3-4 paragraphs should be included here, no need for references.
 
 ### Contributors
-- Franjo Ivankovic (@frajoim)
+- Franjo Ivankovic (@franjoim)
 - Daniel Howringan (@howrigan)
 - ...
 
