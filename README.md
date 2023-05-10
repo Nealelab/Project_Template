@@ -21,12 +21,14 @@ This is where analysist and other contributors can write up an abstract-like tex
 Short description of sample data used in the project. Here is an example: 1,000 individuals genotyped on Illumina GSA_MD_v3 platform in 4 batches. DNA derived from blood. Avaliable phenotypes of interest include schizophrenia case/control status. Alternatively, biobanks can also be used, for example:  AllOfUs controlled tier release version 7, including short-read sequencing data and mental health diagnosis codes. At the end, include path to data:
 
 PATH: `path/to/data`
+
 URL: `link.to.data`
 
 ### Reference Data
 Include reference data used for all steps of QC and analysis, and include their paths or links. For example:
 
 1kG3 reference panel: `path/to/ref/panel` (PATH)
+
 hg19 map files: `link.to.map/files` (URL)
 
 ## Methods Overview
@@ -39,12 +41,16 @@ Provide brief overview of staging process for data analysis. Including what plat
 
 ### Quality control
 Date started:   `00/00/00` 
+
 Date finished:  `00/00/00` 
+
 Provide brief overview of quality control in text, then create a step-wise list and link to revelant files/segmets where one can find the example of the code used to run this analysis.
 
 ### Analysis 1
 Date started:   `00/00/00` 
+
 Date finished:  `00/00/00` 
+
 Provide a brief overview of analysis 1 in text, then create a step-wise list if necessary, and link relevant script files/segments which include the code used to obtain the final output used in the analysis. 
 
 ### Analysis 2
