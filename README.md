@@ -38,18 +38,18 @@ Provide brief overview of staging process for data analysis. Including what plat
 **Installed/used software:** Shapeit4, Impute5, plin1.96...
 
 ### Quality control
-Date started:   `00/00/00`
-Date finisher:  `00/00/00`
+Date started:   `00/00/00` 
+Date finished:  `00/00/00` 
 Provide brief overview of quality control in text, then create a step-wise list and link to revelant files/segmets where one can find the example of the code used to run this analysis.
 
 ### Analysis 1
-Date started:   `00/00/00`
-Date finisher:  `00/00/00`
+Date started:   `00/00/00` 
+Date finished:  `00/00/00` 
 Provide a brief overview of analysis 1 in text, then create a step-wise list if necessary, and link relevant script files/segments which include the code used to obtain the final output used in the analysis. 
 
 ### Analysis 2
-Date started:   `00/00/00`
-Date finisher:  `00/00/00`
+Date started:   `00/00/00` 
+Date finished:  `00/00/00` 
 Provide a brief overview of analysis 2 in text, then create a step-wise list if necessary, and link relevant script files/segments which include the code used to obtain the final output used in the analysis. 
 
 ...
