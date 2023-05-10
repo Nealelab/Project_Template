@@ -10,7 +10,7 @@ bash hello.sh
 
 or R:
 
-```R
+```r
 print("Hello World!")
 ```
 
