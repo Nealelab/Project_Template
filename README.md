@@ -55,7 +55,9 @@ Provide a brief overview of analysis 1 in text, then create a step-wise list if 
 
 ### Analysis 2
 Date started:   `00/00/00` 
+
 Date finished:  `00/00/00` 
+
 Provide a brief overview of analysis 2 in text, then create a step-wise list if necessary, and link relevant script files/segments which include the code used to obtain the final output used in the analysis. 
 
 ...
