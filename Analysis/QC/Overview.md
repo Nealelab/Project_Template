@@ -32,7 +32,7 @@ int main() {
 ```
 
 # More QC
-You can also refer to specific scripts: [script1.sh](Analysis/QC/script1.sh)
+You can also refer to specific scripts: [script1.sh](/script1.sh)
 
 ```bash
 bash script1.sh
