@@ -1,6 +1,6 @@
 # Quality Control
 
-# Filtering
+## Filtering
 
 Filtering can be done using Bash:
 
@@ -29,4 +29,11 @@ int main() {
     std::cout << "Hello World!";
     return 0;
 }
+```
+
+# More QC
+You can also refer to specific scripts: [script1.sh](Analysis/QC/script1.sh)
+
+```bash
+bash script1.sh
 ```
