@@ -62,8 +62,6 @@ Provide a brief overview of analysis 1 in text, then create a step-wise list if 
 
 * https://github.com/Nealelab/Project_Template/issues/1
 * https://github.com/Nealelab/Project_Template/issues/2
-* 1
-* 2
  
 ### Analysis 2
 Date started:   `00/00/00` 
