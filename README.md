@@ -58,7 +58,9 @@ Date started:   `00/00/00`
 
 Date finished:  `00/00/00` 
 
-Provide a brief overview of analysis 1 in text, then create a step-wise list if necessary, and link relevant script files/segments which include the code used to obtain the final output used in the analysis. 
+Provide a brief overview of analysis 1 in text, then create a step-wise list if necessary, and link relevant script files/segments which include the code used to obtain the final output used in the analysis. You may also include steps from your analyses here as a way of having a to do list included in your project. Each issue/to-do item gets its own within repository numerical id, but the markdown reders it into a linked title, eg:
+- #2
+- #5
 
 ### Analysis 2
 Date started:   `00/00/00` 
